@@ -5,7 +5,7 @@ header-img: img/bg-home.jpg
 email: smulhj@126.com
 description: "非主流程序员，写个程序玩玩"
 keyword: "可视化, 虚拟现实, VR, 增强现实, AR, 工业互联网, Industrial internet, 物理信息系统, CPS"
-url: "http://sixkarma.github.io"              # your host, for absolute URL
+url: "sixkarma.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 timezone: CN
 
