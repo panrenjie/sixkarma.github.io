@@ -1,2 +1,4 @@
-# sixkarma.github.io
-For blog
+#SixKarma blog
+
+###[View Blog &rarr;](http://sixkarma.github.io)
+
